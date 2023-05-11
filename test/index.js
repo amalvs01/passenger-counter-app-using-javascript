@@ -98,11 +98,11 @@
 // console.log(100 + "100")//"100100"
 // // numbers are blue and strings are white
 
-let welcomeEl = document.getElementById("welcome-el")   
+// let welcomeEl = document.getElementById("welcome-el")   
 
 
-let name = " john "
-let greeting =  " welocme back "
-welcomeEl.innerText =   greeting + name 
+// let name = " john "
+// let greeting =  " welocme back "
+// welcomeEl.innerText =   greeting + name 
 
- welcomeEl.innerText += "🫡"
+//  welcomeEl.innerText += "🫡"
